@@ -47,7 +47,6 @@ To run the insurance charges predictor, follow these steps:
     ```bash
    python insurance_predictor.py
 
-
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
