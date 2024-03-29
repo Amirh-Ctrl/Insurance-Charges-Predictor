@@ -36,11 +36,6 @@ One of the key findings from the model is the interaction between 'age' and 'BMI
 - Scikit-learn library
 - Matplotlib library (for plotting)
 
-## Installation
-To set up the project environment, run the following commands:
-```bash
-pip install pandas numpy scikit-learn matplotlib
-
 ## Usage
 To run the insurance charges predictor, follow these steps:
 
