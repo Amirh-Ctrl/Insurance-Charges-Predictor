@@ -44,8 +44,8 @@ To run the insurance charges predictor, follow these steps:
    ```bash
    pip install pandas numpy scikit-learn matplotlib
 3. Run the script:
-
-python insurance_predictor.py
+    ```bash
+   python insurance_predictor.py
 
 
 ## Contributing
