@@ -15,19 +15,19 @@ These metrics indicate that the model has a good fit to the data, explaining a s
 Through exploratory data analysis, it was found that the features 'sex', 'children', and 'region' do not significantly contribute to the predictive power of the model. Scatter plots for each of these attributes are provided below to illustrate their lack of correlation with insurance charges.
 
 - **Sex vs. Charges Scatter Plot**:
-<img src="screenshot/after.jpg" width="600">
+<img src="Screenshots/sex.png" width="600">
 
 - **Children vs. Charges Scatter Plot**:
-<img src="screenshot/child.jpg" width="600">
+<img src="Screenshots/child.png" width="600">
 
 - **Region vs. Charges Scatter Plot**:
-<img src="screenshot/region.jpg" width="600">
+<img src="Screenshots/region.png" width="600">
 
 ## Important Feature Interaction
 One of the key findings from the model is the interaction between 'age' and 'BMI'. The product of these two features is a strong predictor of insurance charges. A scatter plot showing the relationship between this interaction term and insurance charges is provided below.
 
 - **Age*BMI vs. Charges Scatter Plot**:
-<img src="screenshot/aPb.jpg" width="600">
+<img src="Screenshots/aPb.png" width="600">
 
 ## Requirements
 - Python 3.7 or higher
